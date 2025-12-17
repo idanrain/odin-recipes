@@ -1,4 +1,7 @@
-.ul{
-    padding: 0.2em;
+
+.recipe{
+    height: 150px;
+    width: 100px;
+    box-sizing: border-box;
     border: 2px solid cadetblue;
 }
